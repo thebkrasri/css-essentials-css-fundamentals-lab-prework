@@ -4,6 +4,7 @@ body {
   margin: auto;
   text-align: center;
 }
- h1 {
+#featured-property {
+  width: 900px;
 
  }
