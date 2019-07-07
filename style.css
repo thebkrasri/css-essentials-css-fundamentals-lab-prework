@@ -4,7 +4,10 @@ body {
   margin: 0;
   text-align: center;
 }
-
+figure {
+  margin: 0;
+  width: fit-content;
+}
 img {
   margin: auto;
   width: auto;
