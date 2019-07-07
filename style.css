@@ -22,8 +22,10 @@ position: relative;
    display: block;
    margin: auto;
    text-align: center;
+   width: 100%
  }
  
  #details div {
    float: left;
+   width: 25%;
  }
