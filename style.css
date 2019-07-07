@@ -17,3 +17,11 @@ img {
 margin: auto;
 position: relative;
  }
+ 
+ #details {
+   display: block;
+ }
+ 
+ #details div {
+   float: left;
+ }
