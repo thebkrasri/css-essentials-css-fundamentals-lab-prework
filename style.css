@@ -23,10 +23,11 @@ position: relative;
    margin: auto;
    text-align: center;
    width: 100%;
-   background: red;
+
  }
  
  #details div {
    float: left;
    width: 25%;
+      background: red;
  }
