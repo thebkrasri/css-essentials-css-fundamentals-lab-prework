@@ -20,6 +20,7 @@ position: relative;
  
  #details {
    display: block;
+   margin: auto;
  }
  
  #details div {
